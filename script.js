@@ -23,5 +23,5 @@ function openPayment(url) {
  */
 function openContact() {
     // Замените 'your_psychologist_username' на свой юзернейм (например, 'anna_psy')
-    tg.openTelegramLink('https://t.me/galaxy_feelings');
+    tg.openTelegramLink('@galaxy_feelings_bot');
 }
